@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078329708952",
+    "project_id": "threads-clone-ee37c",
+    "storage_bucket": "threads-clone-ee37c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078329708952:android:744b2ef18e47bc58a3dbed",
+        "android_client_info": {
+          "package_name": "com.example.flutter_skeleton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRvNjE52Ns5VvEYP-OzrXsifjQKKfR6Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078329708952:android:9f639a360b5936fda3dbed",
+        "android_client_info": {
+          "package_name": "com.example.threads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRvNjE52Ns5VvEYP-OzrXsifjQKKfR6Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
